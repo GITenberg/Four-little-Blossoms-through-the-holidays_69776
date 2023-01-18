@@ -1,0 +1,33 @@
+_repo: Four-little-Blossoms-through-the-holidays_69776
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Herbert, Robert Gaston
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '31635'
+    url: http://www.gutenberg.org/2009/agents/31635
+creator:
+  author:
+    agent_name: Hawley, Mabel C.
+    gutenberg_agent_id: '1751'
+    url: http://www.gutenberg.org/2009/agents/1751
+description: ''
+gutenberg_issued: '2023-01-13'
+identifiers:
+  gutenberg: '69776'
+language: en
+pgterms:marc905: 20220621174022hawley
+pgterms:marc906: '1922'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: George Sully & Company,1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Four little Blossoms through the holidays
+url: http://www.gutenberg.org/ebooks/69776
