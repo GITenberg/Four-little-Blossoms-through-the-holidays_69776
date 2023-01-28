@@ -7,12 +7,17 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '31635'
     url: http://www.gutenberg.org/2009/agents/31635
+covers:
+- cover_type: archival
+  image_path: 69776-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawley, Mabel C.
     gutenberg_agent_id: '1751'
     url: http://www.gutenberg.org/2009/agents/1751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69776#Four-little-Blossoms-through-the-holidays
 gutenberg_issued: '2023-01-13'
 identifiers:
   gutenberg: '69776'
